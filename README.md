@@ -1,2 +1,2 @@
 # x-devs
-Essse pro
+ Projeto que Desenvolvemos cards inspirados nos X-Men com um tema de programação.
